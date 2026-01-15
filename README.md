@@ -61,3 +61,28 @@ you’re seeing the process, not just the results.
 - Create small Python projects
 - Document my studies in AI and prompt engineering
 - Keep showing up
+
+### 2026-01-15 — Turning an academic AI project into a real portfolio project
+
+**What I studied:**
+- How to structure a GitHub project like a real product
+- How to present AI concepts in a professional way
+
+**What I practiced:**
+- Creating folders and files in a repository
+- Writing a bilingual README (EN + PT)
+- Organizing code as a real lab (basic, fuzzy, demo)
+
+**What was hard:**
+- Overcoming the fear of publishing something “not perfect”
+- Understanding that a project is more than just a file
+
+**What I learned:**
+- A project becomes professional when it tells a story
+- GitHub is not just for code — it’s for identity
+- I can turn academic work into real engineering artifacts
+
+**Next steps:**
+- Keep transforming my studies into portfolio projects
+- Apply this same structure to other works
+- Build my Safety Tech vision step by step
